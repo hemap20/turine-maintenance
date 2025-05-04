@@ -34,5 +34,12 @@ Frontend: Dash + Plotly
   • Modular graphs with dynamic callbacks
   • Interactive dropdowns and layout styling
 ```
+## Preview
+
+![Dashboard Screenshot](./ss_1.png)
+![Dashboard Screenshot](./ss_2.png)
+![Dashboard Screenshot](./ss_3.png)
+![Dashboard Screenshot](./ss_4.png)
+
 
 
